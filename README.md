@@ -238,7 +238,7 @@
 </table>
 </details>
 
-### Delete Mahasiswa (DELETE)
+### Delete Peminjaman Buku (DELETE)
 
 <details>
 <summary> Klik untuk ekspand </summary>
