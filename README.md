@@ -1,6 +1,6 @@
 # Layanan Peminjaman Buku Online
 
-### Create Pinjam Buku by Id (GET)
+### Create Pinjam Buku by Id (POST)
 
 <details>
 <summary> Klik untuk ekspand </summary>
